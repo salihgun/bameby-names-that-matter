@@ -2,8 +2,7 @@
 
 Hello Dear Users,
 
-If you need assistance or wish to contact the developer, please click the link below.
-
+If you have any questions or need support, feel free to reach out to the developer by clicking the link below. We're here to help and ensure you have the best experience possible.
 
 
 
@@ -11,18 +10,17 @@ If you need assistance or wish to contact the developer, please click the link b
   .support-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #B08BFD;
+    background: linear-gradient(to bottom right, rgba(0, 122, 255, 0.8), rgba(255, 105, 180, 0.8));
     color: white;
     font-weight: bold;
     border-radius: 5px;
     text-decoration: none;
   }
   .support-link:hover {
-    background-color: #8A5FFB;
+    background: linear-gradient(to bottom right, rgba(0, 122, 255, 1), rgba(255, 105, 180, 1));
   }
 </style>
 
 <a href="mailto:support@salihgun.dev" class="support-link">
    Contact Support
 </a>
-

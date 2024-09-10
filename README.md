@@ -1,10 +1,10 @@
-# bameby-support
+# bameby - names that matter
 
 Hello Dear Users,
 
-You can create issue if you need something, and I can help you.
+If you need assistance or wish to contact the developer, please click the link below.
 
-[Contact Support](mailto:support@salihgun.dev)
+
 
 
 <style>
